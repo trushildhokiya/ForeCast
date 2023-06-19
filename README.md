@@ -31,7 +31,7 @@ Get dependencies
 flutter pub get
 ```
 
-> **Info**
+> **Note**
 > If the above command does not work open pubspec.yaml file and manually get dependencies installed 
 
 Add API KEY:
@@ -39,7 +39,7 @@ Add API KEY:
 const API_KEY = <API_KEY>;
 ```
 
-> **Info**
+> **Note**
 > File location: lib/services/weather.dart
 
 ___
@@ -66,5 +66,5 @@ Trushil Dhokiya
 
 #### Releases
 
-> **Info**
+> **Note**
 >You can download the final App from github Releases section 
